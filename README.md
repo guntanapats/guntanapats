@@ -1,6 +1,6 @@
 ## Hi there 👋
 **My name is Tanapat Sakulbanchaporn** <br>
-✨Prince of Songkla University - PSU <br>✨
+📖Prince of Songkla University - PSU 📖<br>
 💻Computer Engineering - CoE💻
 
 <!--
