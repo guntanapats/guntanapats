@@ -1,4 +1,6 @@
 ## Hi there 👋
+My name is Tanapat Sakulbanchaporn
+✨Prince of Songkla University - Computer Engineering PSU✨
 
 <!--
 **guntanapats/guntanapats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
